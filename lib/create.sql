@@ -1,2 +1,3 @@
 CREATE TABLE bears (id INTEGER, name TEXT, age INTEGER,
-        gender )
+        gender CHAR(1), color TEXT, temperment TEXT, alive BOOLEAN);
+        
